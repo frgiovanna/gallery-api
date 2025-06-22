@@ -1,0 +1,11 @@
+{
+  "name": "gallery-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:frgiovanna/gallery-api.git",
+  "author": "frgiovanna <giovannacnf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^5.4.0"
+  }
+}
